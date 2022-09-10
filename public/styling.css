@@ -1,0 +1,14 @@
+*{
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+#todoInp {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.todoList{
+    font-family: 'Neonderthaw', cursive;
+    padding: 10px;
+    background-color: lightgrey;
+    border-radius: 5px;
+}
